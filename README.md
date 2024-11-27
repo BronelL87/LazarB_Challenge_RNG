@@ -8,6 +8,6 @@
 
 ### Peer Review
 
-**Reviewer**: 
+**Reviewer**: Anthony Duran
 
-**Reviewer Notes**: 
+**Reviewer Notes**: Dosent display all the information on the past people but the assignment also did not ask for that, the page is easy to read and simple with the grey background. the code is much the same, short and simple.
